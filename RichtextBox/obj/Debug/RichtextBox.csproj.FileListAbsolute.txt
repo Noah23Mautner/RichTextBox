@@ -1,0 +1,10 @@
+C:\Users\Mautner\source\repos\RichtextBox\RichtextBox\bin\Debug\RichtextBox.exe.config
+C:\Users\Mautner\source\repos\RichtextBox\RichtextBox\bin\Debug\RichtextBox.exe
+C:\Users\Mautner\source\repos\RichtextBox\RichtextBox\bin\Debug\RichtextBox.pdb
+C:\Users\Mautner\source\repos\RichtextBox\RichtextBox\obj\Debug\RichtextBox.csproj.AssemblyReference.cache
+C:\Users\Mautner\source\repos\RichtextBox\RichtextBox\obj\Debug\RichtextBox.Form1.resources
+C:\Users\Mautner\source\repos\RichtextBox\RichtextBox\obj\Debug\RichtextBox.Properties.Resources.resources
+C:\Users\Mautner\source\repos\RichtextBox\RichtextBox\obj\Debug\RichtextBox.csproj.GenerateResource.cache
+C:\Users\Mautner\source\repos\RichtextBox\RichtextBox\obj\Debug\RichtextBox.csproj.CoreCompileInputs.cache
+C:\Users\Mautner\source\repos\RichtextBox\RichtextBox\obj\Debug\RichtextBox.exe
+C:\Users\Mautner\source\repos\RichtextBox\RichtextBox\obj\Debug\RichtextBox.pdb
